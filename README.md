@@ -1,6 +1,5 @@
 # Linux-Development
-This is for the Youtube channel  @LearnLinuxDevelopment-pn9kx
-
+This is for the Youtube channel  @LearnLinuxDevelopment
 # Syllabus
 1. Types of kernels and responsibilities of kernel
 2. What is User space and what is kernel space
